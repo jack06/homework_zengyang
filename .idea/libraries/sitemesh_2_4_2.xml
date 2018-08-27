@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sitemesh-2.4.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../架包/sitemesh-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../架包/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../架包/gson-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
