@@ -4,6 +4,7 @@
       <root url="jar://$PROJECT_DIR$/../架包/sitemesh-2.4.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../架包/jstl-1.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/../架包/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../架包/sqlite-jdbc-3.23.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

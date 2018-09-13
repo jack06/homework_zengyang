@@ -25,7 +25,7 @@
 <th class="table-danger">价格</th>
 <th class="table-warning" colspan="3" style="text-align: center">操作</th>
 
-    <% List<IPhone_Attribute> iphone= (List<IPhone_Attribute>) request.getAttribute("iphones");
+    <% List<IPhone_Attribute> iphone= (List<IPhone_Attribute>)request.getAttribute("iphones");
     for(IPhone_Attribute iphones:iphone){
     %>
     <tr>
