@@ -1,4 +1,4 @@
-  ##分割数据库总结：
+### 分割数据库总结：
 
 	目前分割的方法还没有完全可以熟练的自己写出来，特别是 lagou_position表的创建
 
@@ -15,7 +15,7 @@ from (select * from lagou_position_bk where district is not null) p
   join lagou_city c on c.city like concat(p.city, '%') and c.district like concat(p.district, '%');
 
 
-对于这个表目前还没能理解。
+# 对于这个表目前还没能理解。
 
 
 对于公司表的表的心得：
